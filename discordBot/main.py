@@ -22,4 +22,4 @@ async def on_message(message):
         anoy=not anoy
     elif message.author.top_role.position >= owner.position and anoy:
         await message.delete()
-client.run('MTAwOTU1NTg2MTk1OTYyNjc1Mg.GtryMf.6LtF465m79We7Zpq6tbEkuMngw9OgmyiLzG-N0')
+client.run('')
